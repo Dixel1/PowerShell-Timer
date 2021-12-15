@@ -1,3 +1,5 @@
+#Timer PowerShell v0.1
+
 Add-Type –assemblyName PresentationFramework
 Add-Type –assemblyName PresentationCore
 Add-Type –assemblyName WindowsBase
